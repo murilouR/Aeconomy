@@ -1,9 +1,9 @@
 # aeconomy
 
-Aplicativo que tende a se tornar aplicável na região do Distrito Federal
+Aplicativo que tende a se tornar ferramenta na busca e pesquisa de preços entre mercados na região do Distrito Federal
 O App lista os preços dos produtos em mercados e Atacados, funcionando como uma espécie de rede social onde o usuário atualiza o preço do produto que procura, ajudando assim outros usuários e os motivando a fazer o mesmo para que o aplicativo seja ciclado corretamente.
 
-Application that tends to become applicable in the Federal District region
+Application that tends to become a tool in the search and research of prices between markets in the Federal District region
 The App lists the prices of products in markets and Wholesale, working as a kind of social network where the user updates the price of the product he is looking for, thus helping other users and motivating them to do the same so that the application is cycled correctly. 
 
 ## Getting Started
