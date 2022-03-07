@@ -13,7 +13,7 @@ class _PerfilState extends State<Perfil> {
     return Center(
       child: Text(
         "Customização do perfil",
-        style: TextStyle(fontSize: 25
+        style: TextStyle(fontSize: 26
         ),
       ),
     );
