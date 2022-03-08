@@ -54,9 +54,6 @@ class _HomeState extends State<Home> {
                 ),
             ),
             ),
-            ListTile(),
-            ListTile(),
-            ListTile(),
           ],
 
         ),
